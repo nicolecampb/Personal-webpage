@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="UTF-8" /> 
+  <h2>Nicole Campbell</h2>
+  <style>
+  body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        </style>
+        </head>
+        <h1>Information about me</h1>
+        <body>
+        <p>I was born in Bellevue, Washington, and am the middle child, with one older brother and one younger sister. I am an accounting major in the Foster School of Business, and am planning on working specifically in audit at a public accounting firm. I weirdly like accounting; the combination of crumching numbers and problem solving is right up my alley. Although I enjoy numbers, I am not particularly skilled in computers; hence why this page is probably ugly. Having been born and raised in Washington (and 15 minutes outside of Seattle) I really want to move out of state after graduation, maybe to Arizona or California. </p>
+        </body>
+        </html>
